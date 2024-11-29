@@ -1,2 +1,5 @@
-# exercicios-github
-Exercicios feitos para consolidar a aula de GitHub do dia 29/11/2024
+# ![Catalisa](catalisa.png)
+
+## Inclusão de PCDs na tecnologia
+
+O programa Catalisa oferece formação profissional em tecnologia para pessoas com deficiência (PCDs) com contratação desde o 1º dia.
