@@ -1,4 +1,8 @@
+# Eloiza Azevedo Marcondes de Souza
+
 👩‍💻 Sobre Mim
+
+
 Olá! Eu sou Eloiza, uma apaixonada por lógica, raciocínio e tecnologia! 🧠✨
 
 📍 Moro em Barbacena - MG, tenho 44 anos, sou casada e mãe de 3 filhos incríveis.
